@@ -1,0 +1,1 @@
+alert("Know about corona");
